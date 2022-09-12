@@ -1,1 +1,1 @@
-toy
+console.log("main")
